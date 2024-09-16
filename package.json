@@ -1,0 +1,26 @@
+{
+  "name": "skinny_toggle",
+  "version": "1.0.0",
+  "description": "a simple toggle component",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjahsin/skinny_toggle.git"
+  },
+  "keywords": [
+    "toggle",
+    "component"
+  ],
+  "author": "skinnyK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjahsin/skinny_toggle/issues"
+  },
+  "homepage": "https://github.com/kjahsin/skinny_toggle#readme"
+}
